@@ -1,0 +1,32 @@
+{
+  "id": "3bc11a2d-ed37-4a99-bd03-57083817aa7f",
+  "name": "WebSocketsPoC",
+  "publisher": "Dan Kinsella",
+  "version": "1.0.0.0",
+  "brief": "A simple app to test web socket communication from BC using JavaScript.",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://dankinsella.blog",
+  "url": "https://dankinsella.blog",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
